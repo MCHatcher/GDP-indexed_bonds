@@ -1,4 +1,4 @@
-//Dynare code for simulating the extended model (Figs 4-6 in the paper). 
+//Dynare code for simulating the extended model (Figs 4 in the paper). 
 //Written by Michael Hatcher (m.c.hatcher@soton.ac.uk). Any errors are my own.
 
 //-----------------------------------------
