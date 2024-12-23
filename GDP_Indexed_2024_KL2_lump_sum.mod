@@ -13,7 +13,7 @@ sig_A;
 
 alfa = 0.3;  
 betta = 0.9;  
-gama = 3;  
+gama = 5;  
 eps = 0.5;  
 n = 0.4;  
 chi = 1+n;
